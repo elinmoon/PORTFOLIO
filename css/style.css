@@ -286,6 +286,8 @@ main .box #skill .more{
     top: 50%;
     font-weight: bold;
     cursor: pointer;
+    font-size: 14px;
+    transition: color 0.5s;
 }
 
 main .box #skill .more:hover{
